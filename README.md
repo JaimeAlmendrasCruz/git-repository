@@ -11,3 +11,5 @@ git pull -- to pull changes in the repository
 
 git config --global core.editor "code --wait"
 git config --global -e
+
+EDITED FROM GITHUB.COM  
