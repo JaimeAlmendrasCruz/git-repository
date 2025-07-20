@@ -11,5 +11,7 @@ git pull -- to pull changes in the repository
 
 git push -u origin js
 
+git commit --amend --no-edit
+
 git config --global core.editor "code --wait"
 git config --global -e
